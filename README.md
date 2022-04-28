@@ -8,17 +8,18 @@
 ```javascript
   const whoAmI = {
   user: "Michaela Mauriello",
-  pronouns: "she" || "her",
+  pronouns: "she" | "her",
   hobbies: {
     gaming: {
-      "pc",
-      "switch",
-      "xboxX"
+      favoriteSystem: "PC",
+      nintendo: "Switch",
+      microsoft: "Xbox X",
+      sony: "Playstation 5"
      },
      movies: {
-      "animated",
-      "sciFi",
-      "action"
+      needMoreOfGenre: "animated",
+      favoriteGenre: "sci-fi",
+      mostWatched: "action"
      },
      puppos: {
         cinnabon: {
