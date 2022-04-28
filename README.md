@@ -31,8 +31,6 @@
          }
      }
   }
-  
-  
 ```
 
 ### <img src="https://i.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp" width="50">  My GitHub Stats: 
