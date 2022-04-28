@@ -8,7 +8,7 @@
 ```javascript
   const whoAmI = {
   user: "Michaela Mauriello",
-  pronouns: "she" | "her",
+  pronouns: "she" || "her",
   hobbies: {
     gaming: {
       favoriteSystem: "PC",
@@ -32,6 +32,7 @@
          }
      }
   }
+}
 ```
 
 ### <img src="https://i.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp" width="50">  My GitHub Stats: 
