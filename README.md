@@ -8,7 +8,7 @@
 ```javascript
   const whoAmI = {
   user: "Michaela Mauriello",
-  pronouns: "she" | "her",
+  pronouns: "she" || "her",
   hobbies: {
     gaming: {
       "pc",
@@ -26,7 +26,7 @@
           derpinessLevel: 7
          },
          cocoaBean: {
-          breed: "corgi"
+          breed: "corgi",
           derpinessLevel: 10
          }
      }
