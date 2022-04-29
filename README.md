@@ -82,6 +82,12 @@
   <a href="https://www.linkedin.com/in/michaela-mauriello/">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
+  <a href="https://discord.com/users/craazykat" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" />
+  </a>   
+  <a href="https://www.github.com/mgmauriello" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" />
+  </a>   
 </p>
 
 
