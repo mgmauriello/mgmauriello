@@ -7,31 +7,31 @@
 
 ```javascript
   const whoAmI = {
-  user: "Michaela Mauriello",
-  pronouns: "she" || "her",
-  hobbies: {
-    gaming: {
-      favoriteSystem: "PC",
-      nintendo: "Switch",
-      microsoft: "Xbox X",
-      sony: "Playstation 5"
-     },
-     movies: {
-      needMoreOfGenre: "animated",
-      favoriteGenre: "sci-fi",
-      mostWatched: "action"
-     },
-     puppos: {
-        cinnabon: {
-          breed: "corgi",
-          derpinessLevel: 7
-         },
-         cocoaBean: {
-          breed: "corgi",
-          derpinessLevel: 10
-         }
-     }
-  }
+    user: "Michaela Mauriello",
+    pronouns: "she" || "her",
+    hobbies: {
+      gaming: {
+        favoriteSystem: "PC",
+        nintendo: "Switch",
+        microsoft: "Xbox X",
+        sony: "Playstation 5"
+       },
+       movies: {
+        needMoreOfGenre: "animated",
+        favoriteGenre: "sci-fi",
+        mostWatched: "action"
+       },
+       puppos: {
+          cinnabon: {
+            breed: "corgi",
+            derpinessLevel: 7
+           },
+           cocoaBean: {
+            breed: "corgi",
+            derpinessLevel: 10
+           }
+       }
+    }
 }
 ```
 
