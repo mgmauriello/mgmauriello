@@ -98,6 +98,4 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" />
   </a>   
 </p>
-
-
 ---
